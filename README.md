@@ -1,3 +1,3 @@
 # First_Repo
 This is my first Git repository
-Auther - Ritesh Kamble
+Author - Ritesh Kamble
